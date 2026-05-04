@@ -2,6 +2,11 @@
 
 An AI-powered travel planning web app built using Python and Streamlit.
 
+##  Live Features
+- AI-based travel planning
+- Real-time API integration
+- Budget optimization
+  
 ## Features
 - Flight search using Amadeus API
 - Weather forecasting using OpenWeather API
